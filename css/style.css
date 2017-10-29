@@ -141,7 +141,7 @@ span {
 }
 
 .header-background {
-    background: url(../images/header.jpg);
+    background: url(../image/header.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -655,7 +655,7 @@ section#project {
 }
 
 .gal-1 {
-    background: url(../images/gal1.jpg) center center;
+    background: url(../images/gal1.png) center center;
     height: 200px;
     background-size: cover;
     width: 48%;
